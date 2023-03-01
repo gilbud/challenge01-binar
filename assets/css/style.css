@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica';
+}
+
+.bg-hero{
+    background: #F1F3FF;
+}
+
+.button{
+    padding: 8px 12px;
+    color: #fff;
+    background: #5CB85F;
+    border: none;
+    border-radius: 2px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 36px;
+}
+
+p{
+    font-weight: 300;
+    font-size: 14px;
+}
+
+h4{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+h5{
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.number {
+    font-weight: 300;
+    font-size: 14px;
+    margin-left: -34px;
+}
+
+.bg-banner{
+    background: #0D28A6;
+    color: #fff;
+    border-radius: 13px;
+}
+
+
+.nav-footer a{
+    text-decoration: none;
+}
+
+.nav-footer p{
+    font-weight: 600;
+    color: black;
+}
